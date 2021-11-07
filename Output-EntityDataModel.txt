@@ -1,0 +1,4 @@
+﻿Generated model file: AutoLotEntitesModel.cs.
+Loading metadata from the database took 00:00:00.5048775.
+Generating the model took 00:00:01.1978608.
+The 'configuration' start tag on line 2 position 2 does not match the end tag of 'configSections'. Line 7, position 4.
